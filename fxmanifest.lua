@@ -9,5 +9,5 @@ client_scripts {
 }
 
 server_scripts {
-    'rb3-s.lua',
+    'sm.lua',
 }
